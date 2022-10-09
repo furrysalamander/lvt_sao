@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "DFR0299")(type "KiCad")(uri "${KIPRJMOD}/DFR0299.kicad_sym")(options "")(descr ""))
+  (lib (name "badgelife_shitty_addon_v169bis")(type "KiCad")(uri "${KIPRJMOD}/sao/badgelife_shitty_addon_v169bis.kicad_sym")(options "")(descr ""))
+  (lib (name "LSAO")(type "KiCad")(uri "${KIPRJMOD}/sao/LSAO.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP8266-01_ESP-01")(type "KiCad")(uri "${KIPRJMOD}/esp01/ESP8266-01_ESP-01.kicad_sym")(options "")(descr ""))
+  (lib (name "lvt")(type "KiCad")(uri "${KIPRJMOD}/lvt.kicad_sym")(options "")(descr ""))
+)

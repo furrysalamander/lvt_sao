@@ -1,3 +1,6 @@
 (fp_lib_table
   (lib (name "lvt")(type "KiCad")(uri "${KIPRJMOD}/lvt.pretty")(options "")(descr ""))
+  (lib (name "esp01")(type "KiCad")(uri "${KIPRJMOD}/esp01")(options "")(descr ""))
+  (lib (name "badgelife_sao_v169bis")(type "KiCad")(uri "${KIPRJMOD}/sao/badgelife_sao_v169bis.pretty")(options "")(descr ""))
+  (lib (name "HC-SR501")(type "KiCad")(uri "${KIPRJMOD}/HC-SR501")(options "")(descr ""))
 )
