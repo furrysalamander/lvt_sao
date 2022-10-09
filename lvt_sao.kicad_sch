@@ -979,6 +979,24 @@
     (pin "3" (uuid 86dbb60e-7d4a-4344-bfb6-cb7056146a5e))
   )
 
+  (symbol (lib_id "power:GND") (at 161.29 148.59 0) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid 8c9c23dd-8802-4fc0-b46e-0ebd1c81c6c8)
+    (property "Reference" "#PWR0110" (id 0) (at 161.29 154.94 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (id 1) (at 163.83 149.8599 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "" (id 2) (at 161.29 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 161.29 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 91790b44-542f-44a1-8fde-d69b52cb665c))
+  )
+
   (symbol (lib_id "Device:R") (at 240.03 99.06 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 987bd0ea-8abc-4bf7-8e93-90ad0a5901b8)
@@ -1266,6 +1284,9 @@
     )
     (path "/1ed51426-d7a2-4926-934e-5a5d0a0ca24e"
       (reference "#PWR0109") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/8c9c23dd-8802-4fc0-b46e-0ebd1c81c6c8"
+      (reference "#PWR0110") (unit 1) (value "GND") (footprint "")
     )
     (path "/9b1a0ddc-2815-4f35-824b-9e81fbeabbd5"
       (reference "D1") (unit 1) (value "LED") (footprint "LED_SMD:LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder")
