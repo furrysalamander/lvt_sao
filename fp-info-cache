@@ -1,4 +1,4 @@
-20113680425928894
+20121650358802001
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52926,6 +52926,13 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
+HC-SR501
+HC-SR501
+
+
+0
+3
+3
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -85602,6 +85609,34 @@ varistor SIOV
 0
 2
 2
+badgelife_sao_v169bis
+Badgelife-SAOv169-BADGE-2x3
+Through hole straight IDC box header, 2x03, 2.54mm pitch, double rows
+Through hole IDC box header THT 2x03 2.54mm double row
+0
+6
+6
+badgelife_sao_v169bis
+Badgelife-SAOv169-SAO-2x3
+Through hole straight IDC box header, 2x03, 2.54mm pitch, double rows
+Through hole IDC box header THT 2x03 2.54mm double row
+0
+6
+6
+esp01
+XCVR_ESP8266-01_ESP-01
+
+
+0
+8
+8
+lvt
+MODULE_DFR0299
+
+
+0
+16
+16
 lvt
 lvt_logo
 
